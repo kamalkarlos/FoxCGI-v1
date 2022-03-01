@@ -1,4 +1,5 @@
-# FoxCGI-v1
+# FoxCGI-v1 By AnonymousFox
+
 # Uploaded By CapitosKamal
 
 
